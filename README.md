@@ -1,9 +1,9 @@
 
 ## Documentation-site
-My documentation-site, i will write here all new thing that I have learn.
+My documentation-site, i will write here all new thing that I have learn. 
 
 ## Motivation
-
+Force myself to make some kind of notes.
 
 ## Build status
 This page is still in building process.
